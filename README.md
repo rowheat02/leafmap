@@ -65,7 +65,7 @@ Below is a partial list of features available for the leafmap package. Please ch
 -   Publish interactive maps with a single line of code.
 -   Download and display OpenStreetMap data with a single line of code.
 
-## Citations
+## Citations 
 
 If you find **leafmap** useful in your research, please consider citing the following paper to support my work. Thank you for your support.
 
